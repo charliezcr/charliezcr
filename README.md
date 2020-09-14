@@ -10,6 +10,7 @@ Here is the porfolio of my data analytics, machine learning, and natural languag
 - 🌱 I’m a candidate of Master of Science in Business Analytics at Brandeis University, currently learning Natural Language Processing.
 - 📫 Contact me by zhengchengrui@hotmail.com
 - 🌏 Please visit my personal website for more: https://www.charliezcr.com
+- 💼 If you are interested in hiring me. please check out my linkedin: https://www.linkedin.com/in/chengrui-zheng/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am based in San Franciso Bay Area even though my school is in Greater Boston Area
 
