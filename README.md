@@ -6,7 +6,7 @@
 
 Here is the porfolio of my data analytics, machine learning, and natural language processing projects. I will be glad if you want to discuss with me about my work. For more reader-friendly explanation of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
 
-- 🔭  I’m currently seeking full-time position as a data analyst.
+- 🔭  Algorithm Engineer at Alibaba.
 - 🌱  Master of Science in Business Analytics at Brandeis University.
 - 📫  Contact me by zhengchengrui@hotmail.com
 - 🌏  Please visit my personal website for more: https://www.charliezcr.com
