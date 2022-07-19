@@ -1,11 +1,12 @@
-### Hi, I am Charlie 👋
+## Hi, I am Charlie 👋
 
 <!--
 **charliezcr/charliezcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here is the porfolio of my **data analytics, machine learning, and natural language processing** projects. I will be glad if you want to discuss with me about my work. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
+Here is the porfolio of my **data analytics, machine learning, and natural language processing** projects. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
 
+###About Me
 - 🔭  Former Algorithm Engineer at Alibaba.
 - 🌱  Brandeis and UC San Diego alumni.
 - 📫  Contact me by zhengchengrui@hotmail.com
