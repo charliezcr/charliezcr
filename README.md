@@ -6,7 +6,7 @@
 
 Here is the porfolio of my **data analytics, machine learning, and natural language processing** projects. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
 
-###About Me
+### About Me
 - 🔭  Former Algorithm Engineer at Alibaba.
 - 🌱  Brandeis and UC San Diego alumni.
 - 📫  Contact me by zhengchengrui@hotmail.com
