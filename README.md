@@ -10,6 +10,6 @@ Here is the porfolio of my **data analytics, machine learning, and natural langu
 - 🔭  Former Algorithm Engineer at Alibaba.
 - 🌱  Brandeis and UC San Diego alumni.
 - 📫  Contact me by zhengchengrui@hotmail.com
-- 🌏  Please visit my personal website for more: https://www.charliezcr.com
+- 🌏  Please visit my personal website for more: https://charliezcr.github,io
 - 💼  If you are interested in hiring me. please check out my linkedin: https://www.linkedin.com/in/chengrui-zheng/
 - 😄  Pronouns: he/him/his
