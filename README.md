@@ -7,7 +7,7 @@
 Here is the porfolio of my **machine learning,, natural language processing, and data science** projects. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
 
 ### About Me
-- 🤖  Developing voiceprint recognition technology at a robotics company
+- 🤖  Applying generative AI on robots at a robotics company Shenhao
 - 🔭  Former Algorithm Engineer at Alibaba.
 - 🌱  Brandeis and UC San Diego alumni.
 - 📫  Contact me by zhengchengrui@hotmail.com
