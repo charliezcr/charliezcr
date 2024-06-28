@@ -4,7 +4,7 @@
 **charliezcr/charliezcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here is the porfolio of my **machine learning,, natural language processing, and data science** projects. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
+Here is the porfolio of my **machine learning, natural language processing, and data science** projects. For more reader-friendly explanations of my projects, please visit my blog on Medium: https://crzheng97.medium.com/
 
 ### About Me
 - 🤖  Applying generative AI on robots at a robotics company Shenhao
